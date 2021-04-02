@@ -2,3 +2,8 @@
   margin: 0px;
   padding: 0px;
 }
+
+body {
+  font-family: cursive;
+  background: grey url('C:\Users\Saladin\Documents\GitHub\HTMLCSS2') repeat;
+}
